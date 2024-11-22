@@ -1,0 +1,34 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - CLIENT_ID=${CLIENT_ID}
+      - CLIENT_SECRET=${CLIENT_SECRET}
+      - REDIRECT_URI=${REDIRECT_URI}
+      - REFRESH_TOKEN=${REFRESH_TOKEN}
+      - FOLDER_ID=${FOLDER_ID}
+      - JWT_SECRET=${JWT_SECRET}
+      - MODEL_PATH=/app/models/Cnn14_mAP=0.431.pth
+      - CLASS_LABELS_PATH=/app/models/class_labels_indices.csv
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+      #  - ./backend/db.json:/app/db.json
+    depends_on:
+      - frontend
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    environment:
+      - REACT_APP_API_URL=http://localhost:5000
+    volumes:
+      - ./frontend:/app

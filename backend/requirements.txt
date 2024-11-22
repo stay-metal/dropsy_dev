@@ -1,0 +1,6 @@
+numpy==1.24.4
+panns_inference==0.1.1
+torch==2.0.1
+librosa==0.10.0.post2
+ffmpeg-python==0.2.0
+scipy==1.9.3

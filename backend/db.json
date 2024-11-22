@@ -1,0 +1,1726 @@
+{
+  "selectedFiles": [],
+  "analysisResults": {
+    "1Uwp5FcSSimFlkPInoFsLMvyTeaJhZGUA": {
+      "detected_instruments": [],
+      "bpm": 93.75
+    },
+    "1rNgopNKiqbgYDBmVmEFnwiU7sKc9LfQ2": {
+      "detected_instruments": [],
+      "bpm": 129.31034482758622
+    },
+    "1G6hpS2ehgwm_1jSz0XmU2xy-CNg1PR7R": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7023904919624329
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6653556227684021
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6267344951629639
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5330255627632141
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "110SupMow3H7FqWRzlV9zXlNPVGuT6tRu": {
+      "detected_instruments": [],
+      "bpm": 129.31034482758622
+    },
+    "1g2qWDxp7WkAR1iuNV8SqloicdsveWHFU": {
+      "detected_instruments": [],
+      "bpm": 120.96774193548387
+    },
+    "1049JEKGjwpTzRU5bmj64iyFMi2jAEcXI": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6734657883644104
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6325831413269043
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6199631690979004
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5017293095588684
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1gfQiDDoq4TXfSPlOj3xbjRToJUuKydId": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6762636303901672
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6498960852622986
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6165194511413574
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4952971339225769
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1MdynhveftZe6WobLMJkkrc-wv5mpb7r6": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.30288273096084595
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1mgnJm9TPT_UWBd_Z3sjSV9fpESVJroT_": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.2424120306968689
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1TGiNpwuxzZBuBz2uVeTatEukkI4sVnwF": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.3109622001647949
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1Z4gOubmQm70SYOp9TmsiJ1gnjL9ZtCDR": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6352856755256653
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6038870215415955
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5974030494689941
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4756585657596588
+        }
+      ],
+      "bpm": 163.04347826086956
+    },
+    "1G3qQ8tZ0w3HAW9M8Kb5oNurzKcpeQ3T2": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6620017290115356
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6619813442230225
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5897692441940308
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.48048317432403564
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.34434518218040466
+        }
+      ],
+      "bpm": 163.04347826086956
+    },
+    "1hy8E4DNgthnOIQLiuOjKT_0cAeLQZ6tR": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7670239210128784
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7391766309738159
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6551573872566223
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5890522003173828
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.3845667243003845
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1QEXugBtFoY8wqPJW59ac_1C7Z5M1yxPk": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7220064401626587
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7040133476257324
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6199749708175659
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5297435522079468
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1RadR1iIF1KbRkai3-oNkwYfXC_hkXLmX": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7384889125823975
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7033652067184448
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6179163455963135
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5494433641433716
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1aRMWLWS9bDXTwucmJqiJc7TdpHXkUcPo": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7655353546142578
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7438144087791443
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6625289916992188
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5841063857078552
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1e0109P-e3PpEFCwaVQMTYqbm5QW6VljS": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.824876070022583
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.8082042932510376
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6800169348716736
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.656623125076294
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1_Ub-4y_XGmXAxtowK3fO_SaXVs3b-slH": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7855261564254761
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7819227576255798
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6565632820129395
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.628521740436554
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1ea0g-Zz3b5g1xo_ZI0pysG6kNIX2Bx-W": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5913429856300354
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5667087435722351
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5375803112983704
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.3991786241531372
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1mjcEe9oCHKaJEe3TTGKzk4GuW1ViBsmb": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.21251271665096283
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10831157863140106
+        }
+      ],
+      "bpm": 79.7872340425532
+    },
+    "1SMzPqjHC-fJmJAWtPHUc6Wa96wNp8iIj": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.26121893525123596
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.08712606132030487
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "15P6S3_Qc-_ZN9GOMTdbeCdC2TDnTsBoS": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.16797560453414917
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.052377741783857346
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "19ZFTT5sCPew4lvFcYkq5hX2zgmQxPKtW": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.33178797364234924
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.11116953939199448
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1zFYZOe_xzX06bIuXEUiItB_HyLIUH3l4": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.32396483421325684
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.1696050465106964
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1g9wFzTIF1_xXMEVR-j0fhkHRiDuOA8xN": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11182260513305664
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1cf3RdXWrP2Fx2mORu_YPOTGCEydkgRsC": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.23944267630577087
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.14887776970863342
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1a9zcu8OISxq-She3b2OOOkGXPYSLWi7r": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1442524492740631
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.09979654848575592
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1n3lMubR-i0VhVROKdtJX9zDXmCsqEGjA": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.14826887845993042
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.12299942225217819
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "12joYm6UKXJDa-Fp9_t6KDZl2yLfDgGX4": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.17695990204811096
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.11608889698982239
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1PlPcrB33EDYkGn8KKGd60HJepYpIgqsE": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.23768916726112366
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1CrSI_J_yD8kF1RcxHGfoBC_6BzWkntde": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.19034673273563385
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.1373530924320221
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1zd7cjEScQRW4LuDWwUHrD9dQJpi46fuh": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.2468472123146057
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1jFdQ5vgRTzO2o_aRDZA1Lk5hnDl1ZEOH": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.18598757684230804
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1VJtCuR_6VXP-cHCJOBpvt5ysW01uD6oh": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11567111313343048
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.09783042222261429
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1guNzZt6W8ojUb_YMWnHYHto1yh_8HesR": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1293981373310089
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10095690935850143
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1VuLHCnDyhponRapoJd3qfE2vNqTKUNty": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11601009219884872
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1bcfp1tSsZXYe_0Pkm-8mXDuNnp-WGuh3": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.12425611913204193
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1u8HpfU3GxU89DQqgmg46A8qFjl1KO-dN": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1789051741361618
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1sdgecBeG8BMExoIq1oiriRB9DCHIhfd9": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.14660954475402832
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1nAs-KSZkSO1RxheHq2q45alDlKnBLgoI": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.23057864606380463
+        },
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11529500037431717
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1v6tgn_7_AkDo99LuoDwD3cfSzEZAiwfd": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.177520751953125
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1gqtF1A4zrT1pX-bwXqsgOf6OxdLFq-7N": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.2368401139974594
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1J8NQXxa5dKAtd7WCWm9GMy4bshO-hZ9r": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.3440897464752197
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1eVvr9Ktj4Q0EJcXLP0PzZUsdGMi1-RvS": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11298241466283798
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.08130647242069244
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1R8ZCzG_8hxtjN4ZZZqaoxseutpNGM4ne": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1273624747991562
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10330722481012344
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1t86dhX7jRMEeWzQ7VTvHyLFDmOpMTxnC": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.13307903707027435
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1wfIoFKZ4mOi55tT_OHYuXaXSVy7lKAQz": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.13490422070026398
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1iid6cYUsOkBpWsl9-9C_pFiBWEzMx9hs": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.2100415676832199
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1O42bj54aMWOGMJisNcXnr_k0CtWElK0f": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.15718846023082733
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1vSdRLUF2ZB2Fbk2NqeH7wcdoSZk6Ce60": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.19012682139873505
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.09080222994089127
+        }
+      ],
+      "bpm": 79.7872340425532
+    },
+    "1hDZ-IGMLFws0p7Vg1FACe1S60Gq8-1ni": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.2211654633283615
+        },
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1202426627278328
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1umNaOufzTgCwoVWUQ1aAkdPgCr27V11i": {
+      "detected_instruments": [],
+      "bpm": 129.31034482758622
+    },
+    "1lQUrlRsnNjXgCJTWQwJk7pasGcDxzRvA": {
+      "detected_instruments": [],
+      "bpm": 120.96774193548387
+    },
+    "1hGtIMCS4RLDCB_6EnmOJl33-Mp75rJPw": {
+      "detected_instruments": [],
+      "bpm": 129.31034482758622
+    },
+    "1SMX83iiMOxNnnzL_qwp0-IVepYJVN5On": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7023904919624329
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6653556227684021
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6267344951629639
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5330255627632141
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1cgEz1BnsQjmlJpfGKL2NLoEpsDVvFoKp": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6734657883644104
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6325831413269043
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6199631690979004
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5017293095588684
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1rotBjaiuFE6ILbmOv5aMsTggYIygjw0i": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6762636303901672
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6498960852622986
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6165194511413574
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4952971339225769
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1e00zdv52GWnCqLDddw-9KxRMVv38_-3Z": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.30288273096084595
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1vh3B7HWL6CLFEKKWFQsbbcySSTjnPm-q": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.2424120306968689
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1R37kNCOii_WMBpKrHQbKZnikXkhiAbhD": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.3109622001647949
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1iQv2drwOBEZgn41mkCL7-gQtHB0zPO82": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6352856755256653
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6038870215415955
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5974030494689941
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4756585657596588
+        }
+      ],
+      "bpm": 163.04347826086956
+    },
+    "1Azb7SUMr6QSMN1tNNNPlH7Oc29VDwYcq": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6620017290115356
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6619813442230225
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5897692441940308
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.48048317432403564
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.34434518218040466
+        }
+      ],
+      "bpm": 163.04347826086956
+    },
+    "1fcIw9D14HQXwkFU0OWe1DFI6TcPb5M9_": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7670239210128784
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7391766309738159
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6551573872566223
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5890522003173828
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.3845667243003845
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1n1mN0C9T3x8iMVG--KYrrS9UAp4g5x-H": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7220064401626587
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7040133476257324
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6199749708175659
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5297435522079468
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1v_PRXbPRYoNQzdEGJLLlNLAYQtgHh4LZ": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7384889125823975
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7033652067184448
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6179163455963135
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5494433641433716
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1JJ-xIZFt9i-ufalpvC2rXFZNIVLR1bIS": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7655353546142578
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7438144087791443
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6625289916992188
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5841063857078552
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1coqpaG_3KA5tNzOv3piP-Z7w1FSTy14t": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7855261564254761
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7819227576255798
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6565632820129395
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.628521740436554
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1SXyvJQpl2sPTTN9YNrME4x9BFsmLaL46": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.824876070022583
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.8082042932510376
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6800169348716736
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.656623125076294
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1joPpkGIYnO__psI86j2zfHVfa7KD_iCo": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5913429856300354
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5667087435722351
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5375803112983704
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.3991786241531372
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1BePGMVBhDCzrVCUFgAyaKqoR7sDgQK7l": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.15660123527050018
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.0957547128200531
+        }
+      ],
+      "bpm": 96.15384615384616
+    },
+    "1aSZievrKTROOuuVZ3XanapMz_1gxNt-M": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.16991674900054932
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10029859095811844
+        }
+      ],
+      "bpm": 96.15384615384616
+    },
+    "1EE6Su7G0RAEv2hI02PnNl2c_m21i8Imu": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1753547489643097
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10389796644449234
+        }
+      ],
+      "bpm": 96.15384615384616
+    },
+    "1WZYeccAdbOc_qRyncvevs-QR4ME5TIEL": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.21251271665096283
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10831157863140106
+        }
+      ],
+      "bpm": 79.7872340425532
+    },
+    "1ppjLu-NwBsgInS8O3c-v-uZNBI-ucHby": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.26121893525123596
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.08712606132030487
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "14fF_ZD_F4Waha8yiqSHf3OfH-x1BV4qH": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.16797560453414917
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.052377741783857346
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1BYLz_GlAXoOVKSz1BuQrSGiv3ySzR_Q4": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.32396483421325684
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.1696050465106964
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1OWTzCG6tfUk96GQh8eVAeX6sghLC8uBz": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.33178797364234924
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.11116953939199448
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1rHxgvFMVEJ_8X3GsKk_XpE0YifmKKdkB": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11182260513305664
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1hOg_OmBG0Gb_ZlPpGBQ3Vu5TxyhZOZLi": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.23944267630577087
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.14887776970863342
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1Ayoufv2C85Z9JJhWwYTFJ_rMuhPw23qj": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1442524492740631
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.09979654848575592
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1c2mAiYkp-fCYXX7QBWU5nZhMDs2LPKhC": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.14826887845993042
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.12299942225217819
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1WmzQe5t2RyMjLaFuYr8ea41ZYQeWA7Hw": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.17695990204811096
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.11608889698982239
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1haHcp6NQ7bazdWcuC05Xv98Fvt6mAQOs": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.19034673273563385
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.1373530924320221
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "18YbBbxzKr13zVB7GThwwyW4Q3kviEbpU": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.23768916726112366
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1QSmrxp8QdHkKeJ9DTM4TJ_jeyM1LkeYl": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.18598757684230804
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1tt6R9vkR8-kNlsizxBT3DdwsNQ3cUEG2": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.2468472123146057
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1k0qpj2Vf-ElD1Soopt8ZzFOXHPuQD_Rf": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11567111313343048
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.09783042222261429
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1mKp103oEdGn4OFG2dAQ_0qyIMACktI2W": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1293981373310089
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10095690935850143
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1WIQmMdl44eosWjUVBV1R8l3ddEIcONjc": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11601009219884872
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1Q2MX2sPYyQFUuT-MXu0ukbxbMoemLUlf": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1789051741361618
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1-2KxLeCLNj4EuIKewD4Jz1mTLZgn2o1M": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.12425611913204193
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1h2Rzgu6qsyNTFmDc1aNRytJVGvyBkYl-": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.14660954475402832
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1efcV6oP0PseEC6cRe6a_SjgIVhNIMw4V": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.23057864606380463
+        },
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11529500037431717
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "1aWRoFCwy0kaazbkiWP-y3Gey8WFTOWtu": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.2368401139974594
+        }
+      ],
+      "bpm": 117.1875
+    },
+    "1ODhROEVI6r-4k7Kccr-RPbVkYCdk3JL9": {
+      "detected_instruments": [
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.3440897464752197
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "13NjepWZL5MyORob9jZw1qPdEGDS7Ubww": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.177520751953125
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "11GgCAlAai8nVfcBWBCrv1qjvMEnNRhZZ": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.11298241466283798
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.08130647242069244
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "16Zg2UiHfu1kPV7UmAYXW8Ati2x8yk0NJ": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.1273624747991562
+        },
+        {
+          "instrument": "Bass guitar",
+          "probability": 0.10330722481012344
+        }
+      ],
+      "bpm": 120.96774193548387
+    },
+    "175dMtn-g7wFq9aWqNMgiYrjNUFJyW2pt": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.13307903707027435
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1ly2_Pqc-xPIAYjm0qdwzxExhAGdEdujN": {
+      "detected_instruments": [
+        {
+          "instrument": "Electric guitar",
+          "probability": 0.13490422070026398
+        }
+      ],
+      "bpm": 156.25
+    },
+    "1Dj40_0-Q534KFpv7f8NITXBFKbIoKMy9": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7473278045654297
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7183970212936401
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6117925047874451
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5775770545005798
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1NUqJ2F1FqrcD_P-pkDSb2Z-7V1UlcsUY": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.582750141620636
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5594525337219238
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5510779619216919
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.42005330324172974
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "16gzi895T_CTLTfbDNn8HYG36II-9Jyd7": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum",
+          "probability": 0.63532555103302
+        },
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6264635920524597
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6031290888786316
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.47847944498062134
+        }
+      ],
+      "bpm": 98.6842105263158
+    },
+    "1asl88CGKnyvMNJElLxASLA2Jzh8qOyy3": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum",
+          "probability": 0.5430074334144592
+        },
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5414468050003052
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5393285155296326
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4001213014125824
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1Y4KMeh94GhCZdT1166IadXzxZN9alY4J": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6362143158912659
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6284964680671692
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5850121378898621
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4891038239002228
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.2970009744167328
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1rMV6KX1Tm-2X0-aavbd3_h7qAmh5Q6sH": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5733850002288818
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5467824339866638
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5437553524971008
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.41891926527023315
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1F81_PiXKBUY1P5DYrcewFoIUxdnMY2h8": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6299441456794739
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6084229350090027
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5585820078849792
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4733169674873352
+        }
+      ],
+      "bpm": 98.6842105263158
+    },
+    "1jUb4GNo_PLMiVxa1J-Y-0KuT_lhzs1Rp": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.732186496257782
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7278702259063721
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6091615557670593
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.6059183478355408
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1caf_dKMaqlt38lOV0q_BcjKPaBCiT1Tw": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6412047743797302
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6325737833976746
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5934765934944153
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4864318072795868
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1cz5OJV2Icy3g1p0zfWsjcvnUdsswXjUh": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6433916091918945
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6338734030723572
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5752132534980774
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.45971131324768066
+        }
+      ],
+      "bpm": 98.6842105263158
+    },
+    "1lRPCbB5OUgTeFaaLJT8pyOwIFOWmCqje": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6244422197341919
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6011247634887695
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5018166303634644
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4054484963417053
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1K6uq3aGEakKEIr9H8488ehZwnLbypc26": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7229686975479126
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.7041507363319397
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.586208164691925
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5104044675827026
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "16cdyXVlRAredobLCCQJDa1JtFqxZNia6": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5680258870124817
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5444378852844238
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5396217107772827
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.41398918628692627
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1Vh3tIMp3dqsuLF79hbYTJzadIGRk7zm7": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6213915944099426
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.596035361289978
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.48716506361961365
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.439861536026001
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1kC5oC92vWXFinRxR0PoToLTXR5hGEJSq": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6125617623329163
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5786361694335938
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5055727362632751
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.4427613615989685
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1vFrj38vsHvyiYPbhvl44Q20tIQXWHDda": {
+      "detected_instruments": [],
+      "bpm": 93.75
+    },
+    "1r5JcdwobTotBXBTAvUurvQL8FBriQSok": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.6915751099586487
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6565272808074951
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.6321841478347778
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.5625097155570984
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1jCpw3a6PhdS_9LOXbEuGmoS4OkLnqOKz": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.7485408186912537
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.740985631942749
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.626501202583313
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.6002403497695923
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1v89HF0S2Igg2wvCTeSTUDTWZBF8XwnEC": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum kit",
+          "probability": 0.5599924325942993
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.5284450054168701
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.5192682147026062
+        },
+        {
+          "instrument": "Bass drum",
+          "probability": 0.3845522105693817
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1SLC0TtwqffrSuSkFWDat0DIM_C2rac9r": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.20492275059223175
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.13735678791999817
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1xoj7dkK-U1vF7IwUT_ILL7LiDO7fkImK": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.20938044786453247
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.1386968046426773
+        }
+      ],
+      "bpm": 101.35135135135135
+    }
+  }
+}
