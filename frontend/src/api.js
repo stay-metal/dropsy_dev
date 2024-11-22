@@ -1,6 +1,6 @@
 // frontend/src/api.js
 import axios from "axios";
-import store from "./store";
+import store from "./store.ts";
 import { logout } from "./actions/authActions";
 
 const api = axios.create({
