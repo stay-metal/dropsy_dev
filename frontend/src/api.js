@@ -1,5 +1,7 @@
-// api.js
+// frontend/src/api.js
 import axios from "axios";
+import store from "./store";
+import { logout } from "./actions/authActions";
 
 const api = axios.create({
   baseURL: process.env.REACT_APP_API_URL,
@@ -17,7 +19,19 @@ api.interceptors.request.use(
     return config;
   },
   (error) => {
-    Promise.reject(error);
+    return Promise.reject(error);
+  }
+);
+
+// Add a response interceptor to handle 401 errors
+api.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.response && error.response.status === 401) {
+      // Dispatch logout action
+      store.dispatch(logout());
+    }
+    return Promise.reject(error);
   }
 );
 

@@ -1,4 +1,4 @@
-// reducers/authReducer.js
+// frontend/src/reducers/authReducer.js
 import { LOGIN_SUCCESS, LOGIN_FAIL, LOGOUT } from "../actions/actionTypes";
 
 const initialState = {

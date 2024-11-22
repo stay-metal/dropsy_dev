@@ -1721,6 +1721,291 @@
         }
       ],
       "bpm": 101.35135135135135
+    },
+    "1BLF17ACfMGG_BROHK-T3MVPREgfKz2u1": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.6741408705711365
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.5453845858573914
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.4695741534233093
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.22961728274822235
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1MdPOrgFQPTBzLYWo_zFZMHkE2JlNUZzj": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.655501663684845
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6528660655021667
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.5101770758628845
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.29091882705688477
+        }
+      ],
+      "bpm": 89.28571428571429
+    },
+    "13G4n2XPVPf6ZEm2UEwfF4xd6TpDoF913": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.677527904510498
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.5912548303604126
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.5277356505393982
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.3411042392253876
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1DxmwXvFMzpF1VIsmeg14aHhWoc7QL-qV": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.7322956919670105
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6606093645095825
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.630904495716095
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.38230690360069275
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1Y2rZa3w9ENTTfNaKtsjnXTU7nLktWsc_": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.7299264669418335
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6070486307144165
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.5916747450828552
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.371277391910553
+        }
+      ],
+      "bpm": 133.92857142857142
+    },
+    "1fVDOd62APgwoPTjnR4r_ni8IX2-3U7Nk": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.5452006459236145
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.5295607447624207
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.40308308601379395
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.2701053321361542
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1fkyPe2PKQpMhaXkCX8IkWxMSH1m6y-pZ": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.20492275059223175
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.13735678791999817
+        }
+      ],
+      "bpm": 101.35135135135135
+    },
+    "1Nr-33K55YGVqC1QaQmcOpNvhICHex1jN": {
+      "detected_instruments": [],
+      "bpm": 208.33333333333334
+    },
+    "1uYfSP7sLWVvxNIZAtsklP364MPZsCY2j": {
+      "detected_instruments": [],
+      "bpm": 117.1875
+    },
+    "1dxRhjDZGd0huF26HzjGj9Nsx-JVuGmtc": {
+      "detected_instruments": [],
+      "bpm": 65.78947368421052
+    },
+    "166CihprILBEoqscvkyXHulgdgCdXjFov": {
+      "detected_instruments": [],
+      "bpm": 66.96428571428571
+    },
+    "1oDLaFBvtdCHa6v3W66pw8WnB6km69x4j": {
+      "detected_instruments": [],
+      "bpm": 65.78947368421052
+    },
+    "1auR5wBRawy29tSSyYTBVs03I7Ff8cGdm": {
+      "detected_instruments": [],
+      "bpm": 110.29411764705883
+    },
+    "1Azd_QB3M65pMgBXJmtjrUc8e4NSoZg8H": {
+      "detected_instruments": [
+        {
+          "instrument": "158,/m/0l14qv,\"Synthesizer\"",
+          "probability": 0.07381156831979752
+        },
+        {
+          "instrument": "162,/m/02hnl,\"Drum kit\"",
+          "probability": 0.04776992276310921
+        }
+      ],
+      "bpm": 125
+    },
+    "1wdHiPhddyg9syLBupaUlI3jQfgcJSFsf": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.7029228210449219
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6314485669136047
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.521397590637207
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.34028443694114685
+        }
+      ],
+      "bpm": 89.28571428571429
+    },
+    "1dCSIFOtykQtIX7u5cd0oEGDaFaDOUdcm": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.60765141248703
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.5702973008155823
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.43757086992263794
+        }
+      ],
+      "bpm": 89.28571428571429
+    },
+    "1ElGduffbycnDqD6f9_jvJ2lGnEFSmTjZ": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.6238544583320618
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6103121042251587
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.4870229959487915
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.33091095089912415
+        }
+      ],
+      "bpm": 89.28571428571429
+    },
+    "1Y4AK8MG0KcNJy1eaoEQOj43iT8BT3ZD7": {
+      "detected_instruments": [],
+      "bpm": 91.46341463414635
+    },
+    "12LcCYTHTFiA8ZHUnZno7oGm4V1Evug7N": {
+      "detected_instruments": [],
+      "bpm": 96.15384615384616
+    },
+    "1dPemTjhQP7CgjQVRB4bdOKJdkSkWh3Hd": {
+      "detected_instruments": [
+        {
+          "instrument": "163,/m/0cfdd,\"Drum machine\"",
+          "probability": 0.6869068145751953
+        },
+        {
+          "instrument": "164,/m/026t6,\"Drum\"",
+          "probability": 0.6054779887199402
+        },
+        {
+          "instrument": "167,/m/02k_mr,\"Drum roll\"",
+          "probability": 0.5193924903869629
+        },
+        {
+          "instrument": "165,/m/06rvn,\"Snare drum\"",
+          "probability": 0.31763526797294617
+        }
+      ],
+      "bpm": 93.75
+    },
+    "1HJyfymYRVuZmAFMkL2OAEhwJwE9utFow": {
+      "detected_instruments": [
+        {
+          "instrument": "Drum machine",
+          "probability": 0.6769013404846191
+        },
+        {
+          "instrument": "Drum",
+          "probability": 0.6461371779441833
+        },
+        {
+          "instrument": "Drum roll",
+          "probability": 0.5231014490127563
+        },
+        {
+          "instrument": "Snare drum",
+          "probability": 0.2986932098865509
+        }
+      ],
+      "bpm": 93.75
     }
   }
 }

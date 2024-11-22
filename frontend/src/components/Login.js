@@ -1,4 +1,4 @@
-// Login.js
+// frontend/src/components/Login.js
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { login } from "../actions/authActions";
@@ -32,15 +32,10 @@ function Login() {
         flexDirection: "column",
         gap: 2,
         maxWidth: 300,
-        // margin: "auto",
-        // height: "50dvh",
         justifyContent: "center",
         mt: 5,
       }}
     >
-      {/* <Typography variant="h5" align="center">
-        Login
-      </Typography> */}
       {error && (
         <Typography color="error" align="center">
           {error}

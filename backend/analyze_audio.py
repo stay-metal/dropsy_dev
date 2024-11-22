@@ -18,7 +18,14 @@ def analyze_audio(file_path):
     # Загрузка меток классов
     try:
         with open(class_labels_path, 'r', encoding='utf-8') as f:
-            labels_list = [line.strip() for line in f.readlines()]
+            labels_list = []
+            for line in f:
+                parts = line.strip().split(',')
+                if len(parts) >= 3:
+                    label = parts[2].strip().strip('"')  # Extract the label name
+                    labels_list.append(label)
+                else:
+                    labels_list.append(parts[-1].strip().strip('"'))  # Fallback if format varies
     except Exception as e:
         print(f"Error loading class labels: {e}", file=sys.stderr)
         return {"error": f"Error loading class labels: {e}"}
