@@ -15,6 +15,8 @@ services:
       - JWT_SECRET=${JWT_SECRET}
       - MODEL_PATH=/app/models/Cnn14_mAP=0.431.pth
       - CLASS_LABELS_PATH=/app/models/class_labels_indices.csv
+      - AUTH_USERNAME=wldnac
+      - AUTH_PASSWORD=VYZJZG
     volumes:
       - ./backend:/app
       - /app/node_modules
