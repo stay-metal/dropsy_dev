@@ -26,10 +26,10 @@ services:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        REACT_APP_API_URL: http://backend:5000
+        REACT_APP_API_URL: http://35.159.95.87:5000
     ports:
       - "3000:80"
     environment:
-      - REACT_APP_API_URL=http://backend:5000
+      - REACT_APP_API_URL=http://35.159.95.87:5000
     volumes:
       - ./frontend:/app
