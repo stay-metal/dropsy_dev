@@ -1,29 +1,35 @@
-     # Use the official Node.js image for building the app
-     FROM node:18 as build
+# Use the official Node.js image for building the app
+FROM node:18 as build
 
-     # Set working directory
-     WORKDIR /app
+# Set working directory
+WORKDIR /app
 
-     # Copy package.json and package-lock.json
-     COPY package.json ./
+# Define build argument
+ARG REACT_APP_API_URL
 
-     # Install dependencies
-     RUN npm install
+# Pass the environment variable to the build
+ENV REACT_APP_API_URL=$REACT_APP_API_URL
 
-     # Copy the rest of the frontend code
-     COPY . .
+# Copy package.json and package-lock.json
+COPY package.json ./
 
-     # Build the React app
-     RUN npm run build
+# Install dependencies
+RUN npm install
 
-     # Use Nginx to serve the build
-     FROM nginx:alpine
+# Copy the rest of the frontend code
+COPY . .
 
-     # Copy the build output to Nginx's html directory
-     COPY --from=build /app/build /usr/share/nginx/html
+# Build the React app
+RUN npm run build
 
-     # Expose port 80
-     EXPOSE 80
+# Use Nginx to serve the build
+FROM nginx:alpine
 
-     # Start Nginx
-     CMD ["nginx", "-g", "daemon off;"]
+# Copy the build output to Nginx's html directory
+COPY --from=build /app/build /usr/share/nginx/html
+
+# Expose port 80
+EXPOSE 80
+
+# Start Nginx
+CMD ["nginx", "-g", "daemon off;"]
