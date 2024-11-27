@@ -82,7 +82,6 @@ app.get("/auth", (req, res) => {
     prompt: "consent", // Force consent to ensure a refresh token is returned
   });
   res.redirect(url);
-  c;
 });
 
 // OAuth2 callback route
